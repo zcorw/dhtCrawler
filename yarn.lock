@@ -2490,8 +2490,8 @@ typescript@^3.8.2:
   resolved "https://registry.npmjs.org/typescript/-/typescript-3.8.2.tgz#91d6868aaead7da74f493c553aeff76c0c0b1d5a"
 
 underscore@^1.7.0:
-  version "1.9.2"
-  resolved "https://registry.npmjs.org/underscore/-/underscore-1.9.2.tgz#0c8d6f536d6f378a5af264a72f7bec50feb7cf2f"
+  version "1.13.1"
+  resolved "https://registry.yarnpkg.com/underscore/-/underscore-1.13.1.tgz#0c1c6bd2df54b6b69f2314066d65b6cde6fcf9d1"
 
 union-value@^1.0.0:
   version "1.0.1"
